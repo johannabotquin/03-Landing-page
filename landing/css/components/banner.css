@@ -3,11 +3,11 @@
   color:black;
   text-shadow: 20px 20px 20px rgba(254, 253, 253, 0.907);
   opacity: 0.8;
-  padding: 100px;
+  padding: 110px;
 }
 
 .banner a {
-  /* background-color: black; */
+  background-color: black;
   color: #ffddd2;
   border-radius: 20%;
   padding: 10px 15px;
