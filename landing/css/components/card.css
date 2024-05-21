@@ -1,0 +1,29 @@
+.card {
+  background-color: #f8edeb;
+  border: 1px solid #f8edeb;
+  height: 300px;
+  width: 200px;
+  border-radius: 10%;
+  text-align: center;
+  box-shadow: 10px 10px 10px rgba(0,0,0,0.2);
+  margin-bottom: 15px;
+}
+
+.card img {
+  width: 100%;
+  min-height: 200px;
+}
+
+.card h3 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  color: #997b66;
+}
+
+.card p {
+  font-size: 14px;
+  font-family: "Montserrat", sans-serif;
+  margin-top: 2px;
+}

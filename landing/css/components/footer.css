@@ -1,0 +1,29 @@
+.footer {
+  background-color: #997b66;
+  text-align: center;
+  padding: 50px;
+}
+
+.fa-brands {
+  color: #ffddd2;
+  width: 60px;
+  font-size: 30px;
+  justify-content: space-between;
+  opacity: 0.8;
+}
+
+.footer li {
+  display: inline;
+}
+
+ .footer ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+ }
+
+ .footer p {
+  color: #ffddd2;
+  opacity: 0.6;
+  text-align: center;
+ }

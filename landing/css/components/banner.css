@@ -1,0 +1,39 @@
+.banner {
+  font-family: "Montserrat", sans-serif;
+  color:black;
+  text-shadow: 20px 20px 20px rgba(254, 253, 253, 0.907);
+  opacity: 0.8;
+  padding: 100px;
+}
+
+.banner a {
+  background-color: black;
+  color: #ffddd2;
+  border-radius: 20%;
+  padding: 10px 15px;
+  text-align: center;
+}
+
+.banner a:hover {
+  background-color: #ffddd2;
+  border: 1px solid black;
+  color: black;
+  opacity: 0.7;
+}
+
+.banner h1 {
+  margin-bottom: 0;
+}
+
+.banner p {
+  margin-top: 0;
+  font-family: "Dancing Script", cursive;
+  font-size: 30px;
+  text-shadow: 50px 50px 50px rgba(0,0,0, 1);
+}
+
+@media (max-width: 960) {
+  .banner {
+    padding: 180px 0;
+  }
+}
